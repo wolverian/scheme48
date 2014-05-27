@@ -1,0 +1,5 @@
+.cabal-sandbox/
+*.swp
+Session.vim
+tags
+dist/
